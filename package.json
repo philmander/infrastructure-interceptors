@@ -4,7 +4,8 @@
   "description": "Repo to demonstrate \"Infrastructure Interceptor\" concepts",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "build" : "tsc"
   },
   "author": "Phil Mander",
   "license": "MIT",
